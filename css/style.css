@@ -1,3 +1,8 @@
 body {
     background: #aeaeae;
+    font-family: "Roboto", sans-serif;
+}
+
+.user__title {
+    font-family: "Solway", sans-serif;
 }
